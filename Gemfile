@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'mhartl_palindrome'
 gem 'rerun',   '0.13.0'
-gem 'sinatra', '2.0.3'
+gem 'sinatra', '2.2.0'
 
 group :test do
   gem 'minitest',           '5.11.3'
